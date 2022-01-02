@@ -8,4 +8,5 @@ Say HelloWorld to TypeScript.
 ```ShellSession
 $ npm install -g typescript
 $ touch greeter.ts
+$ tsc greeter.ts
 ```
