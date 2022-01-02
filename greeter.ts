@@ -18,6 +18,6 @@ function greeter(person: Person) {
     return "Hello, " + person.firstName + " " + person.lastName;
 }
 
-let user = new Student("Jane", "M.", "User");
+let user = new Student("Kota", "", "Oue");
 
 document.body.textContent = greeter(user);
