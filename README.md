@@ -9,4 +9,5 @@ Say HelloWorld to TypeScript.
 $ npm install -g typescript
 $ touch greeter.ts
 $ tsc greeter.ts
+$ touch greeter.html
 ```
